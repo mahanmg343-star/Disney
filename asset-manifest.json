@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Disney/static/css/main.aa249c44.css",
-    "main.js": "/Disney/static/js/main.1791b0f3.js",
+    "main.js": "/Disney/static/js/main.0960627c.js",
     "static/js/453.f3699ad1.chunk.js": "/Disney/static/js/453.f3699ad1.chunk.js",
     "index.html": "/Disney/index.html",
     "main.aa249c44.css.map": "/Disney/static/css/main.aa249c44.css.map",
-    "main.1791b0f3.js.map": "/Disney/static/js/main.1791b0f3.js.map",
+    "main.0960627c.js.map": "/Disney/static/js/main.0960627c.js.map",
     "453.f3699ad1.chunk.js.map": "/Disney/static/js/453.f3699ad1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aa249c44.css",
-    "static/js/main.1791b0f3.js"
+    "static/js/main.0960627c.js"
   ]
 }
